@@ -38,7 +38,7 @@ $ sudo apt-get update
 
 ### 4. Gettings the ROS install file for Rotors Package and building the workspace
 ```
-$ wget https://raw.githubusercontent.com/ethz-asl/rotors_simulator/master/rotors_hil.rosinstall
+$ wget https://raw.githubusercontent.com/pallavkot/rotors_swarm/master/rotors_hil.rosinstall
 $ wstool merge rotors_hil.rosinstall
 $ wstool update
 $ cd ~/rotors_ws/
