@@ -32,7 +32,7 @@ $ wstool init
 ```
 ### 3. Additional packages which are required for RotorS package to work
 ```
-$ sudo apt-get install ros-melodic-joy python-catkin-tools ros-melodic-control-toolbox ros-melodic-octomap-ros ros-melodic-mavlink libgeographic-dev geographiclib-tools libgoogle-glog-dev protobuf-compiler
+$ sudo apt-get install ros-melodic-joy python-catkin-tools ros-melodic-control-toolbox ros-melodic-octomap-ros libgeographic-dev geographiclib-tools libgoogle-glog-dev protobuf-compiler
 $ sudo apt-get update
 ```
 
